@@ -18,5 +18,5 @@ Lean-to conservatory structure that wrapps around the ground floor foot print of
 ## Conservatory
 This structure is useed to balance up the plan evelation foot print of the property. It wraps
 around the extesion and extends the ground floor extension to the entire width of teh property.
-
+The curved part of the conserv. wall/roof use an arch of 22.5 degrees
 
