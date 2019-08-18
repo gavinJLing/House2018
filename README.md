@@ -5,6 +5,7 @@ A House, where I'd like to Live.
 A rural 193o's family home. Which has been extended at the rear with a single upper Master bedroom
 and pitched roof. 
 
+
 This a gable end extension - assuming that a loft conversion has also taken place.
 
 ## Master Bedroom
@@ -20,3 +21,4 @@ This structure is useed to balance up the plan evelation foot print of the prope
 around the extesion and extends the ground floor extension to the entire width of teh property.
 The curved part of the conserv. wall/roof use an arch of 22.5 degrees
 
+The Model is how I would wish to extend a 1930 detacted property on a country road deep in Kent.
